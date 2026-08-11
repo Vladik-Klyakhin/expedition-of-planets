@@ -1,4 +1,4 @@
-const CACHE_NAME = 'skyeng-growth-match-v3';
+const CACHE_NAME = 'expedition-of-planets-v1';
 const ASSETS = [
   './index.html',
   './skyeng-growth-match.webmanifest',
