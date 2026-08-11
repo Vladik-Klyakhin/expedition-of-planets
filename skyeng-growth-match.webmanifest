@@ -1,7 +1,7 @@
 {
-  "name": "Skyeng Growth Match",
-  "short_name": "Growth Match",
-  "description": "Бизнес Match-3 про рост Skyeng.",
+  "name": "Экспедиция планет",
+  "short_name": "Экспедиция",
+  "description": "Космический Match-3 про исследование солнечной системы.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
